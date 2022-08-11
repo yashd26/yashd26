@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Dubey</h1>
-<h3 align="center">Am just a developer</h3>
+<h1 align="center">Hi there 👋, Yash here</h1>
+<h3 align="center">Am just another regular human being</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashd26" alt="yashd26" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashd026@gmail.com**
 
-- ⚡ Fun fact **I am funnier if u talk to me in person**
+- ⚡ Fun fact **I am gay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
