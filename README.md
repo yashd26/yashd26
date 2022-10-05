@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashd026@gmail.com**
 
-- ⚡ Fun fact **I am gay**
+- ⚡ Fun fact **am alive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
